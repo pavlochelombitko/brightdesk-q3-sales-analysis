@@ -1,5 +1,7 @@
 # BrightDesk Q3 Sales Analysis
 
+BrightDesk is a fictional retailer created for this portfolio project. I used synthetic sales data from ChatGPT to analyze Q3 revenue, profitability, and sales volume across four product categories and 20 products.
+
 This project compares revenue, profit, and sales volume across four product categories and 20 individual products.
 
 ## Q3 at a glance
